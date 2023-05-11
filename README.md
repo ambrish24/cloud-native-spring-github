@@ -1,3 +1,9 @@
+### Project Structure
+
+All the modules in this repository are also repositories (in public scope). Like this-
+
+![img_3.png](img_3.png)
+
 Publishing images to the GitHub Container Registry requires you to be authenticated, and for that you’ll need a personal access token (PAT).
 Go to your GitHub account, navigate to Settings > Developer Settings > Personal access tokens, and choose Generate New Token.
 
